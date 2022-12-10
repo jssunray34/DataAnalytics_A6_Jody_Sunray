@@ -1,3 +1,7 @@
+############################################################
+#### This script was provided by Dr. Brandon Behlendorf ####
+############################################################
+
 #install.packages("expss")
 
 #load the expss library that will be used for variable labeling
